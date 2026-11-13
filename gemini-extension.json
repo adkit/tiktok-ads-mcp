@@ -1,0 +1,11 @@
+{
+  "name": "adkit-tiktok-ads",
+  "version": "1.0.0",
+  "description": "TikTok Ads MCP server by AdKit: TikTok campaigns, ad groups, ads, video uploads and reports. Every change is saved as a draft until you approve it.",
+  "mcpServers": {
+    "adkit-tiktok-ads": {
+      "httpUrl": "https://mcp.adkit.so/api/mcp/tiktok-ads",
+      "description": "Hosted AdKit TikTok Ads MCP server. Signs in with OAuth in the browser on first use; nothing to install."
+    }
+  }
+}

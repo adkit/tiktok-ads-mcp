@@ -1,0 +1,22 @@
+{
+  "name": "adkit-tiktok-ads",
+  "metadata": {
+    "description": "TikTok Ads MCP server by AdKit: TikTok campaigns, ad groups, ads, video uploads and reports. Every change is saved as a draft until you approve it."
+  },
+  "owner": {
+    "name": "AdKit",
+    "email": "contact@adkit.so"
+  },
+  "plugins": [
+    {
+      "name": "tiktok-ads",
+      "source": "./",
+      "description": "TikTok Ads MCP server by AdKit: TikTok campaigns, ad groups, ads, video uploads and reports. Every change is saved as a draft until you approve it.",
+      "author": {
+        "name": "AdKit",
+        "email": "contact@adkit.so"
+      },
+      "homepage": "https://adkit.so/features/ads-mcp/tiktok"
+    }
+  ]
+}

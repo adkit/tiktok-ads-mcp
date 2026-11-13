@@ -1,0 +1,22 @@
+{
+  "name": "tiktok-ads",
+  "description": "TikTok Ads MCP server by AdKit: TikTok campaigns, ad groups, ads, video uploads and reports. Every change is saved as a draft until you approve it.",
+  "author": {
+    "name": "AdKit",
+    "email": "contact@adkit.so"
+  },
+  "homepage": "https://adkit.so/features/ads-mcp/tiktok",
+  "repository": "https://github.com/adkit/tiktok-ads-mcp",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "tiktok ads mcp",
+    "tiktok ads",
+    "mcp",
+    "model context protocol",
+    "ads mcp",
+    "advertising",
+    "ad campaigns"
+  ],
+  "mcpServers": "./.mcp.json"
+}
