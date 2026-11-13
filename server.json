@@ -3,7 +3,7 @@
   "name": "io.github.adkit/tiktok-ads",
   "title": "TikTok Ads MCP Server by AdKit",
   "description": "TikTok Ads MCP server: run TikTok campaigns, ad groups, ads and reports from AI.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://adkit.so/features/ads-mcp/tiktok",
   "repository": {
     "url": "https://github.com/adkit/tiktok-ads-mcp",
@@ -12,7 +12,7 @@
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://mcp.adkit.so/api/mcp/tiktok-ads"
+      "url": "https://mcp.adkit.so/tiktok-ads"
     }
   ]
 }
